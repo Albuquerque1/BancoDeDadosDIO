@@ -1,22 +1,18 @@
 ## Construindo um Esquema Conceitual do Zero
 
-### DescriÁ„o do Desafio
+### Descri√ß√£o do Desafio
 
-O desafio consiste em criar um esquema conceitual do zero, isto È, a partir da narrativa fornecida, 
+O desafio consiste em criar um esquema conceitual do zero, isto √©, a partir da narrativa fornecida, 
 ,criar todas as entidades, relacionamentos e atributos.
 
- - Cliente PJ e PF ñ Uma conta pode ser PJ ou PF, mas n„o pode ter as duas informaÁıes;
- - Pagamento ñ Pode ter cadastrado mais de uma forma de pagamento;
- - Entrega ñ Possui status e cÛdigo de rastreio;
-
 ### Narrativa:
->Sistema de controle e gerenciamento de execuÁ„o de ordens de serviÁo em uma oficina mec‚nica.
-Clientes levam veÌculos ‡ oficina mec‚nica para serem consertados ou para passarem por revisıes  periÛdicas.
-Cada veÌculo È designado a uma equipe de mec‚nicos que identifica os serviÁos a serem executados e preenche 
+>Sistema de controle e gerenciamento de execu√ß√£o de ordens de servi√ßo em uma oficina mec√¢nica.
+Clientes levam ve√≠culos √† oficina mec√¢nica para serem consertados ou para passarem por revis√µes  peri√≥dicas.
+Cada ve√≠culo √© designado a uma equipe de mec√¢nicos que identifica os servi√ßos a serem executados e preenche 
 uma OS com data de entrega.
-A partir da OS, calcula-se o valor de cada serviÁo, consultando-se uma tabela de referÍncia de m„o-de-obra.
-O valor de cada peÁa tambÈm ir· compor a OS. 
-O cliente autoriza a execuÁ„o dos serviÁos.
-A mesma equipe avalia e executa os serviÁos.
-Os mec‚nicos possuem cÛdigo, nome, endereÁo e especialidade.
-Cada OS possui: n∞, data de emiss„o, um valor, status e uma data para conclus„o dos trabalhos.
+A partir da OS, calcula-se o valor de cada servi√ßo, consultando-se uma tabela de refer√™ncia de m√£o-de-obra.
+O valor de cada pe√ßa tamb√©m ir√° compor a OS. 
+O cliente autoriza a execu√ß√£o dos servi√ßos.
+A mesma equipe avalia e executa os servi√ßos.
+Os mec√¢nicos possuem c√≥digo, nome, endere√ßo e especialidade.
+Cada OS possui: n¬∞, data de emiss√£o, um valor, status e uma data para conclus√£o dos trabalhos.
