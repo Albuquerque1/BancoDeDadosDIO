@@ -10,9 +10,9 @@ Esse projeto consistiu em construir um banco de dados relacional (para o cenári
  
 Nesse repositório constam os seguintes arquivos:
  - Diagrama Entidade Relacionamento (formato png);
- - Esquema lógico (arquivo .txt nomeado como: Esquema_Relacional_Sql);
- - Script com os dados persistidos (arquivo .txt nomeado como: Persistindo_Dados_Sql);
- - Script com algumas queries (arquivo .txt nomeado como: Queries_Sql).
+ - Esquema lógico (arquivo .sql nomeado como: Esquema_Relacional_Sql);
+ - Script com os dados persistidos (arquivo .sql nomeado como: Persistindo_Dados_Sql);
+ - Script com algumas queries (arquivo .sql nomeado como: Queries_Sql).
 
 
 
